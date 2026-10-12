@@ -1,49 +1,67 @@
-# Hey there, I'm Mdevelop1 👋
+# <p align="center">👋 Cześć, jestem Mdevelop1</p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=false&vCenter=true&width=500&lines=Software+Engineer;Building+Thinklush;Rust+%2B+C%2B%2B+%2B+TypeScript" alt="Typing SVG" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Thinklush;Rust+%7C+C%2B%2B+%7C+TypeScript;Low-level+Performance+%26+Modern+Web;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,12&height=120&section=header" width="100%" />
 </p>
 
 ---
 
-### 🚀 O mnie
-- 🔭 Aktualnie pracuję nad: **Thinklush**
-- 💬 Zapytaj mnie o: **TypeScript, Rust, C++**
-- ⚡ Ciekawostka: **Low-level performance meets modern Web ecosystem**
+### 🚀 O mnie & Thinklush
+
+```text
+  _____ _     __     _    _           _ 
+ |_   _| |__ (_) \  / | _| |_  _  ___| |
+   | | | '_ \| |  \/  |/ _` | || |/ __| |
+   |_| |_| |_|_|_/\_/|_|\__,_|\_,_|\___|_|
+```
+
+- ⚙️ **Główny projekt:** Buduję **Thinklush** – wydajne rozwiązanie łączące możliwości systemowe i nowoczesny web.
+- 🎯 **Ulubione technologie:** **Rust**, **C++**, **TypeScript**.
+- 💡 **Filozofia:** Szybkość C++/Rusta połączona z elastycznością TypeScriptu.
 
 ---
 
 ### 🛠️ Stos technologiczny
 
-**Główne języki:**
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Narzędzia:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 Statystyki GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdevelop1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statystyki GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdevelop1&layout=compact&theme=tokyonight&hide_border=true" alt="Najczęściej używane języki" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdevelop1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Znajdź mnie
-<p align="left">
-  <a href="https://github.com/Mdevelop1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,ts,js,linux,git,docker,vscode,cmake,bash&perline=5&theme=dark" alt="My Skills" />
   </a>
+</p>
+
+---
+
+### 🏆 Trofea & Osiągnięcia GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mdevelop1&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophy" />
+</p>
+
+---
+
+### 📊 Statystyki & Wykresy
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdevelop1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Mdevelop1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdevelop1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mdevelop1/Mdevelop1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,12&height=70&section=footer" width="100%" />
 </p>
