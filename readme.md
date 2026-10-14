@@ -12,20 +12,8 @@
 
 ---
 
-### 🚀 O mnie & Thinklush
+![GitHub Enterprise](https://shields.io)
 
-```text
-  _____ _     __     _    _           _ 
- |_   _| |__ (_) \  / | _| |_  _  ___| |
-   | | | '_ \| |  \/  |/ _` | || |/ __| |
-   |_| |_| |_|_|_/\_/|_|\__,_|\_,_|\___|_|
-```
-
-- ⚙️ **Główny projekt:** Buduję **Thinklush** – wydajne rozwiązanie łączące możliwości systemowe i nowoczesny web.
-- 🎯 **Ulubione technologie:** **Rust**, **C++**, **TypeScript**.
-- 💡 **Filozofia:** Szybkość C++/Rusta połączona z elastycznością TypeScriptu.
-
----
 
 ### 🛠️ Stos technologiczny
 
